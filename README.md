@@ -14,7 +14,7 @@ Bu proje, **ELM463 Dönem Projesi** kapsamında, güvenlik kameralarından elde 
 
 ## Proje Dosyaları
 
-- `project_report.pdf` : Projenin ayrıntılı açıklamasını içeren rapor dosyası.
+- `ŞULE NUR_DEMİRDAŞ_PRJ_REPORT.pdf` : Projenin ayrıntılı açıklamasını içeren rapor dosyası.
 - `main.ipynb` : Projede kullanılan Python kodlarının yer aldığı Jupyter Notebook dosyası.
 
 ## Kullanılan Teknolojiler
